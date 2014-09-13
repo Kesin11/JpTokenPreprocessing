@@ -1,4 +1,6 @@
-JpTokenPreprocessing -- Japanese Token Preprocessing
+# JpTokenPreprocessing -- Japanese Token Preprocessing
+
+[![Build Status](https://travis-ci.org/Kesin11/JpTokenPreprocessing.svg)](https://travis-ci.org/Kesin11/JpTokenPreprocessing)
 
 JpTokenPreprocessing is Python library for token preprocessing. It supports filter ing noize (too short token, only number or symbol token etc..) and normalizing (support case and unicode normalize).
 There are common preprocessing for natural language processing (NLP).
