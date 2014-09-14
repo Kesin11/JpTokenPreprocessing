@@ -9,7 +9,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='JpTokenPreprocessing',
-    version='0.1a',
+    version='0.1.5a',
     description='JpTokenPreprocessing is Python library for token preprocessing.',
     long_description=long_description,
     url='https://github.com/Kesin11/JpTokenPreprocessing',

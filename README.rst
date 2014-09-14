@@ -2,11 +2,11 @@
     :target: https://travis-ci.org/Kesin11/JpTokenPreprocessing
 
 
-====================================
+====================================================
 JpTokenPreprocessing -- Japanese Token Preprocessing
-====================================
+====================================================
 
-JpTokenPreprocessing is Python library for token preprocessing. It supports filter ing noize (too short token, only number or symbol token etc..) and normalizing (support case and unicode normalize).
+JpTokenPreprocessing is a Python library for token preprocessing. It supports filtering noize (e.g. too short token, only number or only symbol token) and normalizing (support alphabet case and unicode normalize).
 There are common preprocessing for natural language processing (NLP).
 
 Usage
@@ -81,6 +81,7 @@ MeCab for python3
 -----------------------------------
 
 Please apply below patch for installing and using MeCab module with python3. (2014/09/07 MeCab 0.996)
+
 https://code.google.com/p/mecab/issues/detail?id=7
 
 METHODS
